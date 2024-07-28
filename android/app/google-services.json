@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865558594894",
+    "project_id": "mahmoud-463ef",
+    "storage_bucket": "mahmoud-463ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865558594894:android:7e902f31cb7040db91ca1f",
+        "android_client_info": {
+          "package_name": "com.example.firebaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmpiqxefXDQitFIMsNrgGUVrXirSX7aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
